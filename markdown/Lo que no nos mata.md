@@ -10,7 +10,7 @@ Autor: Scott Carney
 
 ### Introducción: Una oda a las medusas
 - A menos que exista una necesidad urgente de supervivencia, el cuerpo humano se contenta con descansar y no hacer nada.
-- Innumerables millones de personas sufren de enfermedades autoinmunes por las que el cuerpo se ataca a si mismo. Es casi como si hubiera tan pocas amenazas externas a las que enfrentarse que toda nuestra energía almacenada en su lugar estuviera causando estragos en nuestras entrañas.
+- Innumerables millones de personas sufren de enfermedades autoinmunes por las que el cuerpo se ataca a sí mismo. Es casi como si hubiera tan pocas amenazas externas a las que enfrentarse que toda nuestra energía almacenada en su lugar estuviera causando estragos en nuestras entrañas.
 - Al llegar a una altitud elevada, producirás automáticamente más glóbulos rojos para compensar la menor saturación de oxígeno. Si te mueves a un ambiente de calor opresivo, sudarás menos sales con el tiempo y producirás menores cantidades de orina.
 - Los músculos circulatorios débiles son un efecto secundario de vivir en una banda muy estrecha de variaciones de temperatura.
 
@@ -39,7 +39,7 @@ Autor: Scott Carney
 ### 4. La cuña
 - Todos tenemos la capacidad de resistir un estornudo y, aunque puede ser difícil describirlo con palabras, todos sabemos cómo. Reconocer este truco mental es la base fundamental para tomar el control del sistema nervioso autónomo.
 - Es la misma cuña que una persona usa para calmar los nervios al estar de pie en la nieve, resistir escalofríos, contener la respiración solo un poco más, retrasar un orgasmo, dejar de sentir cosquillas o retener el flujo de orina hasta encontrar un aseo.
-- Cualquier respuesta física preprogramada es potencialmente susceptible a esta cuña siempre y cuando presente res características clave:
+- Cualquier respuesta física preprogramada es potencialmente susceptible a esta cuña siempre y cuando presente tres características clave:
     1. En primer lugar, debe existir un estímulo externo claramente identificable.
     2. Segundo, ese estímulo debe desencadenar una respuesta biológica automática y predecible o reflejo.
     3. Tercer, esa respuesta física debe provocar una sensación que pueda visualizarse o imaginarse independientemente del desencadenante externo.
@@ -90,7 +90,7 @@ Autor: Scott Carney
 - Hans Spaans (Parkinson): Utiliza el método Wim Hof para fortalecer las señales medioambientales y superar la neurología fallida. No es una cura sino una rutina de gestión.
 - Hans Emmink (Crohn): Quince meses más tarde, Emmink pidió cita con el médico que había encontrado esos cientos de úlceras. Esta vez no había ninguna. Aunque a veces estas cosas simplemente remiten, eso no significaba que la enfermedad hubiera desaparecido.
 - Kasper van der Meulen (Huesos Rotos): Pasó cuatro horas respirando y concentrándose en su brazo.
-- Henk van der Bergh (Artritis): Despues de dos meses de práctica regular, el dolor desapareció.
+- Henk van der Bergh (Artritis): Después de dos meses de práctica regular, el dolor desapareció.
 
 ### 10. Intervalos con meteorología variada
 - Los deportistas que preparan ultra maratones de más de 160 km no corren distancias cada vez más largas hasta alcanzar su objetivo; en su lugar, enfrentan ráfagas de actividad de un minuto seguidas de breves enfriamientos.
@@ -98,8 +98,8 @@ Autor: Scott Carney
 - El método de respiración de Hof aumenta artificialmente la resistencia aeróbica a corto plazo y las rutinas HIIT pueden aprovechar ese punto óptimo.
 
 ### 11. La guerra fría y el principio vital
-- Beaupré llegó a creer que los límites físicos no eran necesariamente el factor más crítico para determinar quién vivía y quién moría; él creía que la mortalidad dependía del estado mental.
-- Beaupré vio que los soldados que perdían la esperanza eran los primeros en caer. (Principio vital)
+- Bauprés llegó a creer que los límites físicos no eran necesariamente el factor más crítico para determinar quién vivía y quién moría; él creía que la mortalidad dependía del estado mental.
+- Beaupré vio que los soldados que perdían la esperanza eran los primeros en caer (Principio vital).
 - La aclimatación es un proceso que implica una serie de cambios corporales que optimizan la disipación de calor: las glándulas sudoríparas, el volumen plasmático, la piel, el sistema circulatorio y la tasa metabólica juegan un papel importante. Hasta que se producen los cambios necesarios, el cuerpo humano es extremadamente susceptible a una insolación potencialmente mortal.
 - Resulta que simplemente soportar el tiempo atmosférico no es la forma más rápida de cambiar el cuerpo. El entrenamiento de alta intensidad en condiciones de calor a lo largo de solo cinco a ocho días aumenta enormemente la capacidad de sobrevivir con mucho calor a largo plazo.
 - El estrés de los entrenamientos es una especie de cuña que acelera una serie de cambios fisiológicos.
