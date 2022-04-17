@@ -33,13 +33,30 @@ Autor: Brian Tracy
 
 ### 2. Planifique cada día con antelación
 - ¿Cómo se traga el sapo más grande y más feo? Lo divide en actividades específicas paso a paso y empieza por la primera.
-- 
+- La acción sin planificación es la causa de todos los fracasos. Cada minuto ocupado en planificar le ahorra hasta diez minutos en la ejecución.
+- Trabaje siempre con una lista. Cuando se presente algo nuevo, agréguelo a la lista antes de hacerlo. Haga la lista la noche anterior, al término del día de trabajo. Si hace la lista la noche antes, su subconsciente trabajará con esa lista toda la noche mientras duerme.
+- Necesita listas distintas para propósitos distintos.
+    1. Primero debe crear un listado maestro en el cual escribe todo lo que le parece que quiere hacer en algún momento en el futuro.
+    2. En segundo lugar, debe contar con una lista mensual que hace al final de cada mes para el mes siguiente.
+    3. En tercer lugar, debe contar con una lista semanal donde planifica anticipadamente la semana completa. Esta lista se mantiene en construcción mientras transcurre la semana.
+    4. Finalmente, debe transferir asuntos de sus listas mensuales y semanales a su lista diaria.
+- Ante un proyecto de cualquier clase, empiece por hacer una lista de cada paso que tendrá que dar, de principio a fin, para completarlo. Y empiece a trabajar en una tarea a la vez.
 
 ### 3. Aplique a todo la regla del 80/20
-- 
+- Principio de Pareto: El 20 por ciento de sus actividades valen por el 80 por ciento de sus resultados.
+- A menudo vemos personas que pasan todo el día muy ocupadas pero parecen lograr muy poco. Esto es así casi siempre porque trabajan en tareas de poco valor y postergan el par de actividades que podrían ser verdaderamente importantes para su empresa o su carrera.
+- Debe negarse de manera tajante a trabajar en tareas del 80 por ciento inferior mientras tiene pendientes otras tareas del 20 por ciento superior. Resista la tentación de terminar primero con lo pequeño.
+- La parte más dura de cualquier tarea importante es, justamente, empezar a hacerla. Una vez que verdaderamente empieza a trabajar en una tarea valiosa, parece que se motiva naturalmente para continuar.
+- El tiempo que se requiere para completar un trabajo importante suele ser el mismo que se requiere para hacer un trabajo sin importancia.
 
 ### 4. Estudie las consecuencias
-- 
+- La gente que adopta una visión a largo plazo de su vida y carrera siempre parece adoptar mejores decisiones sobre su tiempo y actividades que la gente que reflexiona poco sobre el futuro.
+- Algo importante tiene, por definición, consecuencias potenciales a largo plazo.
+- Antes de empezar algo, siempre debería preguntarse: «¿Cuáles son las consecuencias potenciales de hacer o no hacer esta tarea?»
+- La gente que no tiene éxito, piensa más en el placer a corto plazo y en la gratificación inmediata y piensa poco en el futuro a largo plazo.
+- Los perdedores hacen lo que alivia tensiones mientras que los ganadores hacen lo que logra objetivos.
+- La ley de eficiencia obligada dice que «nunca hay tiempo suficiente para hacer todo, pero siempre hay tiempo suficiente para hacer la cosa más importante»
+- Se tarda mucho más en terminar un trabajo cuando uno corre para completarlo en el último minuto y luego tiene que rehacerlo.
 
 ### 5. Practique la procrastinación creativa
 - 
