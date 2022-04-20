@@ -62,7 +62,13 @@ Autor: Brian Tracy
 - 
 
 ### 6. Practique continuamente el método ABCDE
-- 
+- Escriba una A, B, C, D o E delante de cada asunto de la lista de lo que tiene que hacer al día siguiente.
+- A. Un asunto «A» se define como algo muy importante, que debe hacer o en caso contrario afrontará graves consecuencias. Si tiene más de una tarea «A», establezca prioridades escribiendo A-1, A-2, A-3, etcétera, delante de cada asunto. Su tarea A-1 es el sapo más grande y más feo de todos.
+- B. Un asunto «B» se define como una tarea que debería hacer. Pero sus consecuencias sólo son leves. Esto significa que alguien se molestará o tendrá algún inconveniente si no hace ese trabajo que de ningún modo es tan importante como una tarea «A». Nunca debe hacer una tarea «B» si hay pendiente una tarea «A».
+- C. Una tarea «C» se define como algo que sería agradable hacer, pero cuyas consecuencias son inexistentes lo haga o no lo haga.
+- D. Una tarea «D» se define como algo que puede delegar en otra persona. Debe delegar todo lo que puede hacer otro.
+- E. Una tarea «E» se define como algo que puede eliminar sin que eso importe en lo más mínimo.
+- Cuando desarrolle el hábito de concentrarse en su actividad A-1, la más importante, de tragarse ese sapo, empezará a terminar de hacer más cosas que dos o tres personas juntas.
 
 ### 7. Céntrese en áreas clave de resultados
 - 
