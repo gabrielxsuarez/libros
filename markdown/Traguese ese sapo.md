@@ -57,9 +57,11 @@ Autor: Brian Tracy
 - Los perdedores hacen lo que alivia tensiones mientras que los ganadores hacen lo que logra objetivos.
 - La ley de eficiencia obligada dice que «nunca hay tiempo suficiente para hacer todo, pero siempre hay tiempo suficiente para hacer la cosa más importante»
 - Se tarda mucho más en terminar un trabajo cuando uno corre para completarlo en el último minuto y luego tiene que rehacerlo.
-
+|
 ### 5. Practique la procrastinación creativa
-- 
+- La diferencia entre alto rendimiento y rendimiento pobre está determinada en gran medida por lo que se elige postergar. Como de todos modos debe postergar algo, decida hoy mismo postergar actividades de bajo valor.
+- Diga «no» a todo lo que no sea un uso de alto valor de su tiempo. Dígalo pronto y dígalo a menudo. El hecho es que no tiene tiempo que perder.
+
 
 ### 6. Practique continuamente el método ABCDE
 - Escriba una A, B, C, D o E delante de cada asunto de la lista de lo que tiene que hacer al día siguiente.
@@ -71,28 +73,50 @@ Autor: Brian Tracy
 - Cuando desarrolle el hábito de concentrarse en su actividad A-1, la más importante, de tragarse ese sapo, empezará a terminar de hacer más cosas que dos o tres personas juntas.
 
 ### 7. Céntrese en áreas clave de resultados
-- 
+- «¿Por qué estoy en nómina?» Si no tiene perfectamente claro por qué está en nómina en una empresa, y para qué le contrataron, es muy difícil que rinda al máximo y que le paguen más y le promuevan más rápidamente.
+- Haga una lista de sus responsabilidades y asegúrese de que las personas que estén por encima de usted, o en el mismo nivel o sus subordinados, estén de acuerdo con ello.
+- Una vez que ha determinado sus áreas clave de resultados, el segundo paso es calificarse de uno a diez en cada una de esas áreas.
+- Una de las mayores razones de la postergación de las decisiones en el lugar de trabajo es que la gente evita los trabajos y actividades en áreas donde antes se ha desempeñado mal. En lugar de establecer un objetivo y hacer un plan para mejorar en un área determinada, la mayoría de la gente prefiere sencillamente evitar esa área, lo que sólo empeora las cosas
+- ¿Qué habilidad específica, si la desarrollo y la hago de manera excelente, puede tener el mayor impacto positivo en mi carrera?
 
 ### 8. Aplique la ley de Tres
 - 
 
 ### 9. Prepárese concienzudamente antes de empezar
-- 
+- Una de las mejores maneras de superar la postergación de las decisiones y lograr hacer más cosas más rápido es tener a mano todo lo que necesita antes de empezar.
+- Empiece por despejar su escritorio o su lugar de trabajo para enfrentarse a una única tarea. Tenga todo a mano para que pueda utilizarlo sin tener que levantarse o moverse mucho.
+- Ordene su zona de trabajo para que sea cómoda, atractiva y propicia para trabajar un tiempo prolongado. Asegúrese, sobre todo, de que dispone de una silla cómoda con un buen respaldo y permita que sus pies se apoyen en el suelo.
+- Las personas más productivas se dan tiempo para crearse una zona de trabajo donde pueden disfrutar. Mientras más despejada y limpia esté su área de trabajo antes de que empiece, más fácil le resultará empezar y continuar.
+- «hazlo un 80 por ciento bien y luego corrige»
+- Cuando esté sentado con todo delante suyo, dispuesto a empezar, asuma el lenguaje corporal del alto rendimiento. Siéntese erguido, adelántese en el asiento y sepárese del respaldo de la silla. Asuma la postura de una persona eficiente, eficaz y que rinde al máximo.
 
 ### 10. Ponga un ladrillo después de otro
-- 
+- Es mejor hacer las cosas metódicamente, sin saltarse ningún estadio intermedio.
+- Una de las mejores maneras de superar la postergación de las decisiones es apartar de la mente la enorme tarea que tiene enfrente y centrarse en una sola acción que pueda emprender.
+- La independencia financiera se adquiere ahorrando una pequeña cantidad cada mes, año tras año.
+- La salud y la buena aptitud física se consiguen con sólo comer un poco menos y hacer ejercicio un poco más, día tras día y mes tras mes.
 
 ### 11. Refuerce sus talentos especiales
-- 
+- Reforzar sus talentos es uno de los principios de productividad personal más importantes de todos. Aprenda lo que tenga que aprender para poder hacer su trabajo de manera sobresaliente.
+- Una razón principal de las postergaciones y retrasos es la sensación de ineptitud, la falta de confianza o la incapacidad en un área clave de la tarea. Sentirse débil o deficiente en un área basta para que se desaliente y ni siquiera empiece el trabajo.
+- Recuerde que por más bueno que sea hoy, la tasa de obsolescencia de sus conocimientos y habilidades es muy rápida.
+- El aprendizaje continuo es el requisito mínimo para el éxito en cualquier campo.
+- Lea sobre ese tema por lo menos una hora cada día.
 
 ### 12. Identifique sus obstáculos clave
-- 
+- ¿Qué establece la velocidad con que logra sus objetivos? ¿Por qué no ha logrado su objetivo todavía?
+- El 80 por ciento de los obstáculos, de los factores que le están impidiendo lograr sus objetivos, son internos.
+
 
 ### 13. Presiónese a sí mismo
-- 
+- Sólo un dos por ciento de las personas pueden trabajar sin ninguna supervisión. A estas personas las llamamos «líderes». Esta es la clase de persona que está llamado a ser.
+- Debe escoger sus propios sapos y obligarse a tragárselos según su orden de importancia.
+- Los estándares que establezca para su propio trabajo y conducta deben ser más altos que los que nadie puede determinar para usted.
+- Una de las mejores formas de evitar la procrastinación y hacer más cosas más rápido es trabajando como si sólo tuviese un día para hacer las cosas más importantes.
 
 ### 14. Motívese para la acción
-- 
+- Lo que determina cómo se siente no es lo que le sucede sino la manera como interpreta lo que le sucede.
+- Los optimistas siempre buscan la solución de cualquier problema. En vez de culpar o quejarse cuando las cosas resultan mal, se orientan a la acción.
 
 ### 15. La tecnología es un pésimo amo
 - 
@@ -104,13 +128,16 @@ Autor: Brian Tracy
 - 
 
 ### 18. Divida la tarea
-- 
+- Psicológicamente le resultará más fácil completar un fragmento individual y pequeño de un gran proyecto que empezar por el trabajo en su totalidad.
 
 ### 19. Cree lapsos amplios de tiempo
-- 
+- La mayoría de los trabajos verdaderamente importantes requieren de amplios lapsos de tiempo ininterrumpido para completarlos. Su habilidad para crear estos bloques de tiempo de alto valor y alta productividad es crucial.
+- La clave del éxito de este método de trabajar según segmentos específicos de tiempo es que planifique su día por anticipado
 
 ### 20. Desarrolle un sentido de urgencia
-- 
+- Quizás el rasgo externo más identificable del hombre y la mujer de alto rendimiento sea la «orientación a la acción».
+- El sentido de urgencia se parece mucho a competir consigo mismo.
 
 ### 21. Concéntrese resueltamente en lo que está haciendo
-- 
+- Todo gran logro de la humanidad ha sido precedido por un largo período de trabajo duro y concentrado hasta que se ha concluido.
+- Una vez que ha decidido cuál es su tarea número uno, cualquier otra cosa que haga es una relativa pérdida de tiempo.
