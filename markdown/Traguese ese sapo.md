@@ -12,9 +12,6 @@ Autor: Brian Tracy
 - Si lo primero que hace cada mañana es tragarse un sapo vivo, podrá continuar el día con la satisfacción de saber que lo peor que podía haberle sucedido probablemente ya ha pasado. Su «sapo» es su tarea mayor y más importante, la que probablemente postergue si no hace inmediatamente algo al respecto. También es precisamente la tarea que puede tener el mayor impacto positivo en su vida en este momento.
 - Si tiene que tragarse dos sapos, tráguese primero el más feo. Este es otro modo de decir que si tiene delante dos tareas importantes, empiece por la mayor, la más dura y la más importante. Disciplínese para empezar inmediatamente y luego perseverar hasta que haya completado la tarea antes de pasar a otra cosa. Resista la tentación de empezar por la tarea más fácil.
 - Si tiene que tragarse un sapo vivo, de muy poco sirve sentarse y contemplarlo mucho rato.
-- Diversos estudios de hombres y mujeres que consiguen mejores remuneraciones y son promovidos con mayor rapidez demuestran que la cualidad de la «orientación a la acción» se destaca como la conducta más visible y coherente en todo lo que hacen.
-- El «fracaso en la ejecución» es uno de los mayores problemas en las organizaciones de hoy. Mucha gente confunde actividad con logro. Hablan continuamente, mantienen reuniones interminables y hacen planes maravillosos, pero en último instancia ninguno hace el trabajo ni obtiene los resultados requeridos.
-- Cada vez que completa una tarea de cualquier dimensión o importancia experimenta un brote de energía, entusiasmo y autoestima. Si desarrolla esta «adicción», casi sin pensarlo comienza a organizarse la vida de tal modo que empieza y completa continuamente tareas y proyectos cada vez más importantes. Y realmente se convierte en un adicto, en un sentido muy positivo, al éxito y a la aportación. Esa conducta va a adquirir un poder propio y le resultará más fácil completar tareas importantes que no completarlas.
 - La práctica es la clave para dominar cualquier habilidad. Con la práctica puede aprender cualquier conducta o desarrollar cualquier hábito que considere necesario o deseable.
 - El cuadro mental que se haga de sí mismo ejerce un efecto poderoso en su conducta. Visualícese como la clase de persona que quiere ser en el futuro.
 
@@ -22,7 +19,7 @@ Autor: Brian Tracy
 - Antes de que pueda determinar cuál es su «sapo» y tragárselo, tiene que decidir exactamente qué quiere lograr en cada faceta de su vida. La razón número uno por la cual algunas personas consiguen hacer más trabajo más rápido esporque tienen absoluta claridad sobre sus objetivos y no se desvían de ellos.
 - Piense sobre papel. Sólo un tres por ciento de los adultos tiene objetivos claros escritos. Esas personas consiguen cinco o diez veces más que gente de igual o mejor educación y capacidad pero que, por la razón que sea, nunca se han dado el tiempo para escribir exactamente lo que quieren.
 - Hay una poderosa fórmula, que puede usar durante el resto de su vida, para establecer y lograr objetivos. Consiste en siete pasos muy sencillos:
-    1. Decida exactamente qué quier: Uno de los peores usos del tiempo es hacer muy bien algo que no había ninguna necesidad de hacer.
+    1. Decida exactamente qué quiere: Uno de los peores usos del tiempo es hacer muy bien algo que no había ninguna necesidad de hacer.
     2. Escríbalo: Un objetivo o meta que no está escrito sólo es un deseo o una fantasía. No posee energía propia.
     3. Establezca una fecha tope para su objetivo: Si no hay una fecha tope precisa, fácilmente postergará las cosas y no las completará.
     4. Haga una lista de todo lo que puede pensar acerca de lo que va a tener que hacer para lograr el objetivo.
@@ -35,11 +32,7 @@ Autor: Brian Tracy
 - ¿Cómo se traga el sapo más grande y más feo? Lo divide en actividades específicas paso a paso y empieza por la primera.
 - La acción sin planificación es la causa de todos los fracasos. Cada minuto ocupado en planificar le ahorra hasta diez minutos en la ejecución.
 - Trabaje siempre con una lista. Cuando se presente algo nuevo, agréguelo a la lista antes de hacerlo. Haga la lista la noche anterior, al término del día de trabajo. Si hace la lista la noche antes, su subconsciente trabajará con esa lista toda la noche mientras duerme.
-- Necesita listas distintas para propósitos distintos.
-    1. Primero debe crear un listado maestro en el cual escribe todo lo que le parece que quiere hacer en algún momento en el futuro.
-    2. En segundo lugar, debe contar con una lista mensual que hace al final de cada mes para el mes siguiente.
-    3. En tercer lugar, debe contar con una lista semanal donde planifica anticipadamente la semana completa. Esta lista se mantiene en construcción mientras transcurre la semana.
-    4. Finalmente, debe transferir asuntos de sus listas mensuales y semanales a su lista diaria.
+- Necesita listas distintas para propósitos distintos (listado maestro, mensual, semanal, diaria).
 - Ante un proyecto de cualquier clase, empiece por hacer una lista de cada paso que tendrá que dar, de principio a fin, para completarlo. Y empiece a trabajar en una tarea a la vez.
 
 ### 3. Aplique a todo la regla del 80/20
